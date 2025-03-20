@@ -44,5 +44,10 @@
 
 ---
 
+<br clear="both">
+
+<img src="" />
+
+---
 ### 💖 Support Me
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-F79E1B?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/yourprofile)
