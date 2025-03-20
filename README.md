@@ -1,12 +1,12 @@
-## Hey there! I'm [Your Name] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## Hey there! I'm [Sibinath] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ![Banner](https://your-banner-url.com/banner.png)
 
 ### 🚀 About Me
+- 💻 **Full stack Devoloper**🏗️
 - 🎓 **Computer Science & AI/ML Student**
 - 🖥️ **Web Developer & AI Enthusiast**
 - 🎨 **Photo & Video Editor**
-- 👕 **Building a Clothing Brand**
 
 ---
 
@@ -24,7 +24,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### 🛠️ Tools & Tech
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
@@ -32,22 +31,15 @@
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
-
 ### ✨ Fun Facts
-- 🏆 **Building a healthcare chatbot AI**
-- 🌟 **Working on an Anime Website**
+- 🏆 **Building a chatbot AI**
+- 🌟 **love to make ideas into reality**
 - 🎵 **Love listening to music while coding**
 
 ---
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
 ---
