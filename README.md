@@ -4,7 +4,7 @@
   <h3>🐍 Watch my contribution graph get eaten by the snake</h3>
 </div>
 
-![snake gif](https://github.com/sibinath29/sibinath29/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/sibinath29/sibinath29/blob/output/github-snake-dark.svg)
 
 ## 🎯 Features
 
